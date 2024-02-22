@@ -9,4 +9,4 @@ I am most confident in using Rust and prefer to use it over most other programmi
 I also have experience with Linux system administration, Nginx, PHP (both from a sysadmin and programming perspective), and Common Gateway Interface.
 
 ## Contact
-The best way to contact me is through my [professional email address](abigailsdev@proton.me).
+The best way to contact me is through my [professional email address](mailto:abigailsdev@proton.me).
