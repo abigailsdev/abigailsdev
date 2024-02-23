@@ -3,10 +3,4 @@ Hi! My name is Abigail and I'm a student software developer from the United King
 
 I am currently studying Games Technology and learning games development in Unity with C#.
 
-## Experience
-I am most confident in using Rust and prefer to use it over most other programming languages but I have also used C#, Ruby, Lua, Python, and C amongst a variety of others.
-
-I also have experience with Linux system administration, Nginx, PHP (both from a sysadmin and programming perspective), and Common Gateway Interface.
-
-## Contact
-The best way to contact me is through my [professional email address](mailto:abigailsdev@proton.me). At present, I'm not looking for job offers or freelance work.
+For more information about me, [check out my portfolio website.](https://abigailsdev.github.io/)
